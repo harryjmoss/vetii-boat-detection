@@ -22,7 +22,7 @@ A list of key developers on the project.
 
 Get your own copy up and running by following these simple steps:
 
-### Installation
+### Installation :nut_and_bolt:
 
 1. Clone the repo
 ```sh
@@ -38,7 +38,7 @@ How to use the project once things are installed. WIP.
 _For more examples, please refer to the [wiki](https://github.com/harryjmoss/vetii-boat-detection/wiki)_.
 
 
-## Contributing
+## Contributing :pencil:
 A great place to get started is to first take a look at the [open issues](https://github.com/github_username/repo_name/issues). 
 
 Once you've found something to work on, the suggested workflow is:
@@ -49,30 +49,30 @@ Once you've found something to work on, the suggested workflow is:
 4. Push your changes to your forked remote (`git push my_vetii_fork feature/AmazingFeature`)
 5. Open a pull request to merge your changes into the `main` branch.
 
-## Style guide
-### Code
+## Style guide :art:
+### Code :computer:
 Python code should be PEP8 compliant where possible/convenient, although line length requirements are relaxed if readability would otherwise suffer.
 
 I recommend using a combination of [black](https://black.readthedocs.io/en/stable/) and [flake8](https://flake8.pycqa.org/en/latest/index.html#quickstart) to make life easier here. A check against black will be made in the CI builds in future.
 
-### Documentation
+### Documentation :closed_book:
 Before being merged into `main`, all code should have well writen documentation, including the use of docstrings. We encourage the use of [type hints](https://docs.python.org/3.7/library/typing.html) in code. Adding and updating existing documentation is highly encouraged.
 
-### Gitmoji
+### Gitmoji :smiley:
 I recommend [gitmoji](https://gitmoji.carloscuesta.me/) for an emoji:commit message dictionary. This also includes an optional [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) as a hook so you remember when you write commits!
 
-### Working on an issue
+### Working on an issue :construction_worker:
 Please open a *draft* pull request after deciding to work on an issue so that others know what is being worked on!.
 
 The branch naming convention is `iss_<issue-number>_<short_decription>`, where `<issue-number>` is the issue number and `<short_description>` is a short description of the issue or what you're fixing with your feature branch. You can use the issue title as a basis for the issue description if it helps!
 
 
-## Running tests
+## Running tests :microscope:
 Code should be tested, where appropriate, before it is merged into the main branch. Contributing to existing tests or adding new ones will always be well received!
 
 Tests will also be run on travis (see the [travis configuration](.travis.yml)).
 
-## Contact
+## Contact :envelope:
 
 Harry Moss - [@invariantmoss](https://twitter.com/invariantmoss)
 
