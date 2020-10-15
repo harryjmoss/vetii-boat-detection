@@ -53,7 +53,7 @@ Once you've found something to work on, the suggested workflow is:
 ### Code
 Python code should be PEP8 compliant where possible/convenient, although line length requirements are relaxed if readability would otherwise suffer.
 
-I recommend using [black](https://black.readthedocs.io/en/stable/), "the uncompromising code formatter", to make life easier here. A check against black will be made in the CI builds in future.
+I recommend using a combination of [black](https://black.readthedocs.io/en/stable/) and [flake8](https://flake8.pycqa.org/en/latest/index.html#quickstart) to make life easier here. A check against black will be made in the CI builds in future.
 
 ### Documentation
 Before being merged into `main`, all code should have well writen documentation, including the use of docstrings. We encourage the use of [type hints](https://docs.python.org/3.7/library/typing.html) in code. Adding and updating existing documentation is highly encouraged.
