@@ -13,7 +13,7 @@ For more information, please refer to the [wiki](https://github.com/harryjmoss/v
 A list of key developers on the project.
 
 | Name               | GitHub ID                                            | Email                       | 
-| ------------------ | -----------------------------------------------------| --------------------------- | ------ |
+| ------------------ | -----------------------------------------------------| --------------------------- | 
 | Harry Moss    | [@harryjmoss](https://github.com/harryjmoss) | <h.moss@ucl.ac.uk>   |
 | Sanaz Jabbari | [@sanazjb](https://github.com/sanazjb)
 
